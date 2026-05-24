@@ -2,7 +2,7 @@
 
 A time-series machine learning framework that forecasts **when** a Steam game will go on sale, **how long** the sale will run, and **how deep** the discount will be.
 
-Built as an academic project at National Economics University, Vietnam. The accompanying research report is [`Report_Steam_Sale_Predict.pdf`](Report_Steam_Sale_Predict.tex).
+Built as an academic project at National Economics University, Vietnam. The accompanying research report is [`Report_Steam_Sale_Predict.pdf`](report.pdf).
 
 ---
 
